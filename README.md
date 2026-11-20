@@ -21,9 +21,6 @@ To create and configure an Amazon RDS MySQL DB instance with Multi-AZ deployment
 
 ## OUTPUT
 
-<img width="1880" height="907" alt="image" src="https://github.com/user-attachments/assets/e208# CLOUD-DATA-STORAGE-SERVER
-CLOUD DATA STORAGE SERVER5cd7-bba0-4c33-8214-54a1ba5c6303" />
-
 <img width="1886" height="922" alt="image" src="https://github.com/user-attachments/assets/e40dd114-105c-4ec2-8b52-0daa921d49f9" />
 
 <img width="1887" height="925" alt="image" src="https://github.com/user-attachments/assets/9ee07bfc-7141-4fc4-9efb-a3c2bd5a9f3b" />
